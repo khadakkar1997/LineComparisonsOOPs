@@ -1,4 +1,4 @@
-//Uc2
+//UC2
 package LineComapre;
 
 import java.util.*;
